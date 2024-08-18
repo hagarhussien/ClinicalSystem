@@ -1,0 +1,578 @@
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.AssemblyInfo.cs
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.RazorAssemblyInfo.cache
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.RazorAssemblyInfo.cs
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.staticwebassets.runtime.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.exe
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.deps.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.runtimeconfig.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.pdb
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.ClinicalSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ClinicalSystem.props
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClinicalSystem.props
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClinicalSystem.props
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\scopedcss\bundle\ClinicalSystem.styles.css
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\scopedcss\projectbundle\ClinicalSystem.bundle.scp.css
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.csproj.CopyComplete
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\refint\ClinicalSystem.dll
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.pdb
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.genruntimeconfig.cache
+C:\Users\ALL IN ONE\source\repos\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ref\ClinicalSystem.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\appsettings.Development.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\appsettings.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.staticwebassets.runtime.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.exe
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.deps.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.runtimeconfig.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ClinicalSystem.pdb
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Azure.Core.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Azure.Identity.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Humanizer.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\MessagePack.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Build.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Common.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.CodeDom.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Memory.Data.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Text.Json.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.csproj.AssemblyReference.cache
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.AssemblyInfoInputs.cache
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.AssemblyInfo.cs
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.csproj.CoreCompileInputs.cache
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.RazorAssemblyInfo.cache
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.RazorAssemblyInfo.cs
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.ClinicalSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ClinicalSystem.props
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClinicalSystem.props
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClinicalSystem.props
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets.pack.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets.build.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\staticwebassets.development.json
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\scopedcss\bundle\ClinicalSystem.styles.css
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\scopedcss\projectbundle\ClinicalSystem.bundle.scp.css
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.csproj.CopyComplete
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\refint\ClinicalSystem.dll
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.pdb
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ClinicalSystem.genruntimeconfig.cache
+F:\software development\ClinicalSystem\ClinicalSystem\ClinicalSystem\obj\Debug\net6.0\ref\ClinicalSystem.dll

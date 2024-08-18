@@ -1,0 +1,277 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+<!doctype html>
+<html>
+
+<head>
+    <style>
+        input {
+            width: 250px;
+            height: 25px;
+        }
+
+        p {
+            font-size: 25px;
+            width: 60%;
+            align-items: center;
+            margin-left: 10px;
+            margin-bottom: 10px;
+        }
+
+        img {
+            margin-top: 50px;
+            margin-right: 30px;
+        }
+
+        .about-us {
+          
+            padding: 3rem;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .about-us h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: white;
+        }
+
+        .about-us p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+            margin-top: 5px;
+            color:white;
+        }
+
+        .down {
+            background-color: rgb(192, 190, 190);
+            text-align: center;
+            word-spacing: 50px;
+            font-size: 20px;
+        }
+
+        body {
+            background-color: #ffffff;
+            
+            font-family: "Roboto", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            background-image: url('../../IMG_1625.JPG');
+            background-size:contain;
+        }
+
+        .section1 {
+           
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            height: 100vh;
+            
+        }
+
+        .hero {
+            margin-top:10px;
+            background-image: url('../IMG_1627.JPG');
+            background-size: cover;
+            background-attachment:fixed;
+            background-position: center;
+            height: 60vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width:1300px;
+            margin-left:-160px;
+        }
+
+        button {
+            padding: 1rem 2rem;
+            border: none;
+            background-color: #333;
+            color: white;
+            font-weight: bold;
+            border-radius: 0.3rem;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .hero-text {
+            text-align: center;
+            color: rgb(255, 255, 255);
+        }
+
+        .hero h2 {
+            font-size: 3rem;
+margin-top:10px;
+        text-align:center;
+        margin-left:10px;
+        margin-right:30px;
+        color:black;
+        }
+
+        .hero p {
+            font-size: 1.0rem;
+            margin-bottom: 1.5rem;
+            text-align:center;
+            margin-left:120PX;
+            word-spacing:3PX;
+            color:black;
+        }
+    .social-media i {
+      font-size: 1.5rem;
+      color: #333;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .social-media i:hover {
+      color: #666;
+    }
+
+    .legal-info {
+      text-align: center;
+      margin-top: 2rem;
+      border-top: 1px solid #ccc;
+      padding-top: 2rem;
+      font-size: 0.8rem;
+    }
+
+    .legal-info ul {
+      display: flex;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+
+    .legal-info ul li {
+      margin-right: 1rem;
+    }
+
+    .legal-info ul li:last-child {
+      margin-right: 0;
+    }
+
+
+.container1 {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content:space-around;
+}
+
+.photo {
+  flex-basis: calc((100% / 3) - 2rem);
+  text-align: center;
+}
+
+.photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.photo h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+ 
+  .container1 {
+    flex-wrap: wrap;
+    border-spacing:2px;
+  }
+
+  .photo {
+    flex-basis: calc(100% - 2rem);
+    margin-bottom: 2rem;
+            max-width: 150px;
+  }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgba(15, 63, 45, 0.5);
+        }
+        a{
+        text-decoration:none;
+        color:white;
+        }
+     h4{
+     color:white;
+     }
+           
+    </style>
+</head>
+
+<body >
+    <section class="hero">
+        <div class="hero-text">
+            <h2>Welcome to our Clinic Web App</h2>
+            <p style="color: #000000;">Book your appointments with ease and convenience.</p>
+            <button> <a href="/Login/Index10"> Patient Login </a></button>
+        </div>
+    </section>
+    <div style="  background-size: contain ; background-position: center;  background-attachment: fixed; ">
+
+   
+    <div style="width: 95%;background-color:rgba(15, 63, 45, 0.5) ; align-content: center ; margin-top: 50px; margin-left: 40px; border-radius: 20px; ">
+        <br>   
+        <h1 align=center style=" font-size: 50px; color: #ffffff;">About Us</h1>
+        <img src="~/OIP.jpeg" alt="" align="right" width="300px" height="360px">
+        <section class="about-us">
+            <div class="container">
+               
+                <p style="margin-left:-10px;">
+                    We strive to provide an easy and convenient experience for patients to schedule their medical
+                    appointments. You can view information about different clinics, their operating hours, and easily choose a
+                    suitable appointment time. Additionally, you can take advantage of our additional services such as
+                    appointment reminders and rating clinics and doctors. We consider our patients' satisfaction to be our top
+                    priority, and we work hard to meet their medical needs in the best possible ways. Thank you for visiting our
+                    clinic booking website, and we look forward to serving you."
+                </p>
+            </div>
+        </section>
+
+            <br><br<br>
+
+    </div>
+        <div style="  width: 95%;background-color:rgba(15, 63, 45, 0.5) ; align-content: center ; margin-top: 50px; margin-left: 40px; border-radius: 20px; ">
+            <section class="photos">
+                <br>
+                <h1 style="color:white;text-align:center;">Staff </h1>
+
+                <div class="container1">
+                    <div class="photo">
+                        <a href="/Home/Index14">
+                            <img src="billionphotos925018min.png" alt="Photo of patient and doctor at bedside">
+                            </a>
+                        <h4>Dr. Margot Anastasia</h4>
+                    </div>
+
+                    <div class="photo">
+                        <a href="/Home/Index15">
+
+                        <img src="pexels-thirdman-5327585.jpg" alt="Photo of medical staff assisting a patient">
+                        </a>
+                        <h4>Dr. Cesit Eda</h4>
+                    </div>
+
+                    <div class="photo">
+                        <a href="/Home/Index16">
+
+                        <img src="pexels-thirdman-5327656.jpg" alt="Photo of comfortable patient room">
+                        </a>
+                        <h4>Dr. Fahim Mandour</h4>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+    </div>
+    <br>
+    <br>
+    <br>
+
+</body>
+
+</html>

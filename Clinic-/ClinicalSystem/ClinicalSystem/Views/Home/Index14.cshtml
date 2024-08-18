@@ -1,0 +1,121 @@
+﻿@{
+    ViewData["Title"] = "Doctor Margot Anstasia";
+}
+<!doctype html>
+<html>
+
+<head>
+    <style>
+        input {
+            width: 250px;
+            height: 25px;
+        }
+
+        p {
+            font-size: 25px;
+            width: 60%;
+            align-items: center;
+            margin-left: 10px;
+            margin-bottom: 10px;
+        }
+
+        img {
+            margin-top: 50px;
+            margin-right: 30px;
+        }
+
+        .down {
+            background-color: rgb(192, 190, 190);
+            text-align: center;
+            word-spacing: 50px;
+            font-size: 20px;
+        }
+
+        body {
+            background-color: #ffffff;
+            
+            font-family: "Roboto", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            background-image: url('../medical.jpg');
+            background-size:contain;
+        }
+
+        .section1 {
+           
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            height: 100vh;
+            
+        }
+
+        button {
+            font-family: "Roboto", sans-serif;
+            text-transform: uppercase;
+            outline: 0;
+            background-color: #328f8a;
+            background-image: linear-gradient(45deg, #328f8a, #08ac4b);
+            width: 100%;
+            border: 0;
+            padding: 15px;
+            color: #FFFFFF;
+            font-size: 14px;
+            -webkit-transition: all 0.3 ease;
+            transition: all 0.3 ease;
+            cursor: pointer;
+        }
+
+           
+    </style>
+</head>
+
+<body style=" background-color:rgb(255, 255, 255); background-size: contain ; background-position: center;  background-attachment: fixed; ">
+
+    
+    <div style="width: 90%;background-color:rgba(15, 63, 45, 0.5) ; align-content: center ; margin-top: 50px; margin-left: 50px; border-radius: 20px; ">
+        <br>
+        <h1 align=center style=" font-size: 50px; color: #ffffff;">Doctor Margot Anstasia</h1>
+        <img src="~/billionphotos925018min.png" alt="" align="right" width="360px" height="440px">
+        <br>
+
+        <h2 style="margin-left: 20px; font-size: 40px; color: #ffffff;">About :</h2>
+        <p align=left style="color: #ffffff;">
+
+        <b>Details:-</b>
+        I was born in Fier city of Albania in 1982. I finished primary and secondary education in Albania. I know Albanian, English and Italian languages. I am married and have two children.
+       <br>
+        <b> EDUCATION AND ACADEMIC QUALIFICATIONS:-</b>
+        I completed my university education in 2006 at Hacettepe University Faculty of Dentistry in Ankara.
+        <br />
+        <b> WORK EXPERIENCE:-</b>
+        I worked as a founding physician in the Alpi Oral and Dental Health Polyclinic in Istanbul between 2008 and 2016. I have been working as a founding physician in My Nova Oral and Dental Health Police in İzmir since February of 2016
+        </p>
+        <br>
+        <br>
+
+
+    
+    <div>
+        <h2 style="margin-left: 20px; font-size: 40px; color: #ffffff;">Feedback</h2>
+        <br>
+            <div>
+                <form method="post" class="login-form" asp-controller="Home" asp-action="Index5">
+                    <button type="submit" href="Index5"> FeedBack</button>
+                </form>
+            </div>
+    </div>
+
+
+ <br>
+
+    <br>
+        <div>
+            <form method="post" class="login-form" asp-controller="Home" asp-action="Index4">
+                <button type="submit" href="Index4">Reserv Now</button>
+            </form>
+        </div>
+    <br>
+    <br>
+    </div>
+</body>
+
+</html>
